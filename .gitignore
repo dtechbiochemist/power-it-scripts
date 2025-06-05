@@ -1,0 +1,15 @@
+# Ignore PowerShell cache and temp files
+*.ps1~
+*.ps1xml~
+*.psd1~
+*.psm1~
+*.ps1.save
+*.tmp
+*.bak
+*.log
+
+# VS Code settings (optional, if you use it)
+.vscode/
+
+# System files
+Thumbs.db
